@@ -9,7 +9,10 @@
 
 <center>*[第二章 ParalleX 综述]()</center>
 
-
+  *[2.1 ParalleX 设计目标](./chap2/ParalleX_设计目标.md)
+  
+  *[2.2 ParalleX 开发环境](./chap2/ParalleX_开发环境.md)
+  
 <center>*[第三章 内核组织结构]()</center>
 
 
