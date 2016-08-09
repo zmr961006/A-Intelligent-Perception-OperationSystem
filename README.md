@@ -13,6 +13,8 @@
   
   *[2.2 开发环境](./chap2/ParalleX_开发环境.md)
   
+  *[2.3 发布步骤](./chap2/ParalleX_发布步骤.md)
+  
 <center>*[第三章 内核组织结构]()</center>
 
 
