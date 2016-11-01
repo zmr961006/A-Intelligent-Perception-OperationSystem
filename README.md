@@ -15,9 +15,12 @@
 
 <center>[第二章 ParalleX 设计综述]()</center>
 
-  *[2.1 体系结构概述](./chap2/3_1_体系结构概述.md)
+  *[new! 2.1 内核和内核模块](./chap2/ParalleX内核与模块.md)
+
+  *[old! 2.1 体系结构概述](./chap2/3_1_体系结构概述.md)
   
-  *[2.2 OS设计要素 ](./chap2/3_2_OS设计要素与问题.md)
+  *[old! 2.2 OS设计要素 ](./chap2/3_2_OS设计要素与问题.md)
+  
 
   
 <center>[第三章 内核服务]()</center>
