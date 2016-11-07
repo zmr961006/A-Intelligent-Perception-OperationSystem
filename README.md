@@ -12,6 +12,8 @@
   *[1.3 开发环境](./chap1/ParalleX_开发环境.md)
   
   *[1.4 发布步骤](./chap1/ParalleX_发布步骤.md)
+  
+  *[1.5 问题解决思路](./chap1/ParalleX_研发思路.md)
 
 <center>[第二章 ParalleX 设计综述]()</center>
 
