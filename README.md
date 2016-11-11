@@ -3,6 +3,10 @@
 
 ##<center>目录</center>
 
+<center>[第零章 基础知识]()</center>
+
+   *[0.0 CPU指令集](./chap0/CPU_结构1.md)
+
 <center>[第一章 ParalleX 概要]() </center>
         
   *[1.1 概要](./chap1/ParalleX_概要.md) 
@@ -10,10 +14,8 @@
   *[1.2 设计定位](./chap1/ParalleX_设计目标.md)
   
   *[1.3 开发环境](./chap1/ParalleX_开发环境.md)
-  
-  *[1.4 发布步骤](./chap1/ParalleX_发布步骤.md)
-  
-  *[1.5 问题解决思路](./chap1/ParalleX_研发思路.md)
+    
+  *[1.4 问题解决思路](./chap1/ParalleX_研发思路.md)
 
 <center>[第二章 ParalleX 设计综述]()</center>
 
