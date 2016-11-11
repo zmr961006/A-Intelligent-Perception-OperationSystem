@@ -34,7 +34,9 @@
 
   *[4.1 通用进程概述](./chap4/4_1_进程概述.md)
 
-  *[4.2 ParalleX进程综述](./chap4/ParalleX进程创建.md)
+  *[4.2 ParalleX进程综述](./chap4/ParalleX进程定义.md)
+  
+  *[4.3 ParalleX进程创建](./chap4/ParalleX进程创建.md)
 
 
 <center>[第五章 内存管理]()</center>
