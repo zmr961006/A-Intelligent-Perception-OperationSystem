@@ -19,13 +19,13 @@
 
 <center>[第二章 ParalleX 设计综述]()</center>
 
-  *[new! 2.1 内核和内核模块](./chap2/ParalleX内核与模块.md)
+  *[2.1 内核和内核模块](./chap2/ParalleX内核与模块.md)
   
-  *[new! 2.2 内核提供的服务](./chap2/ParalleX内核提供的服务.md)
+  *[2.2 内核提供的服务](./chap2/ParalleX内核提供的服务.md)
 
-  *[old! 2.1 体系结构概述](./chap2/3_1_体系结构概述.md)
+  *[2.3 体系结构概述](./chap2/3_3_体系结构概述.md)
   
-  *[old! 2.2 OS设计要素 ](./chap2/3_2_OS设计要素与问题.md)
+  
   
 
   
@@ -39,7 +39,11 @@
   *[4.2 ParalleX进程综述](./chap4/ParalleX进程定义.md)
   
   *[4.3 ParalleX进程创建](./chap4/ParalleX进程创建.md)
-
+  
+  *[4.4 ParalleX进程运行](./chap4/ParalleX进程运行.md)
+  
+  *[4.5 ParalleX进程终结](./chap4/ParalleX进程终结.md)
+  
 
 <center>[第五章 内存管理]()</center>
 
