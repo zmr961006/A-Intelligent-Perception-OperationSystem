@@ -5,7 +5,7 @@
 
 <center>[第零章 基础知识]()</center>
 
-   *[0.0 CPU指令集](./chap0/CPU_结构1.md)
+   *[0.0 CPU指令集与流水线](./chap0/CPU_结构1.md)
 
 <center>[第一章 ParalleX 概要]() </center>
         
