@@ -26,9 +26,6 @@
   *[2.3 体系结构概述](./chap2/3_3_体系结构概述.md)
   
   
-  
-
-  
 <center>[第三章 内核服务]()</center>
 
 
@@ -49,6 +46,11 @@
 
 
 <center>[第六章 调度管理]()</center>
+
+  *[6.1 调度综述与消息](./chap6/ParalleX调度综述.md)
+  
+  *[6.2 ParalleX调度机制](./chap6/ParalleX调度机制.md)
+  
 
 
 <center>[第七章 I/O系统]()</center>
