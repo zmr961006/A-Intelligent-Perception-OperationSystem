@@ -3,10 +3,16 @@
 
 ##<center>目录</center>
 
-<center>[第零章 基础知识]()</center>
+<center>[第零章 系统基础]()</center>
 
    *[0.0 CPU指令集与流水线](./chap0/CPU_结构1.md)
-
+   
+   *[0.1 数据类型](./chap0/数据类型.md)
+   
+   *[0.2 ELF和MBOOT](./chap0/ELF和mboot简介.md)
+   
+   *[0.3 gcc和Graphviz绘制函数流程图](./chap0/gcc和Graphviz绘制函数流程图.md)
+   
 <center>[第一章 ParalleX 概要]() </center>
         
   *[1.1 概要](./chap1/ParalleX_概要.md) 
@@ -51,7 +57,6 @@
   
   *[6.2 ParalleX调度机制](./chap6/ParalleX调度机制.md)
   
-
 
 <center>[第七章 I/O系统]()</center>
 
