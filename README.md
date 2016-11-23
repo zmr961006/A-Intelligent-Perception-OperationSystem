@@ -34,6 +34,7 @@
   
 <center>[第三章 内核服务]()</center>
 
+  *[3.2 ParalleX_异常与中断](./chap3/ParalleX_异常与中断.md)
 
 <center>[第四章 进程管理]()</center>
 
