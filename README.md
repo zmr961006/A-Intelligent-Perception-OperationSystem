@@ -60,6 +60,8 @@
   
 
 <center>[第七章 I/O系统]()</center>
+   
+  *[7.1 字符显示驱动](./chap7/基本显示.md)
 
 
 <center>[第八章 文件系统]()</center>
