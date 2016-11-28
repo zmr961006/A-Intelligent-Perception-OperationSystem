@@ -50,13 +50,23 @@
   
 
 <center>[第五章 内存管理]()</center>
+  
+  *[5.0 ParalleX物理内存详细图示](./chap5/5_0ParalleX物理内存地址详解.md)
+
+  *[5.1 ParalleX内存管理概述](./chap5/5_1ParalleX内存管理.md)
+  
+  *[5.2 获取物理内存](./chap5/5_2ParalleX获取物理内存.md)
+  
+  
 
 
 <center>[第六章 调度管理]()</center>
 
   *[6.1 调度综述与消息](./chap6/ParalleX调度综述.md)
   
-  *[6.2 ParalleX调度机制](./chap6/ParalleX调度机制.md)
+  *[6.2 ParalleX调度机制](./chap6/ParalleX调度综述.md)
+  
+  
   
 
 <center>[第七章 I/O系统]()</center>
