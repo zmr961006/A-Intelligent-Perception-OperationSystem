@@ -1,5 +1,5 @@
-#<center>Distributed-Operation-System-Design-And-Implementation</cenrte>
-#<center>Parallex分布式操作系统的设计与实现</center>
+#<center>A Intelligent Perception OperationSystem</cenrte>
+#<center>一种智能感知的操作系统设计与实现</center>
 
 ##<center>目录</center>
 
