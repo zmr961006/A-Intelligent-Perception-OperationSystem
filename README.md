@@ -1,7 +1,7 @@
-#<center>A Intelligent Perception OperationSystem</cenrte>
-#<center>一种智能感知的操作系统设计与实现</center>
+# <center>A Intelligent Perception OperationSystem</cenrte>
+# <center>一种智能感知的操作系统设计与实现</center>
 
-##<center>目录</center>
+## <center>目录</center>
 
 <center>[第零章 系统基础]()</center>
 
